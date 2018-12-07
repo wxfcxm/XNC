@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="18"
+   name=""
+   committed-date="2016-02-14T11:28:01.575516Z"
+   url="https://123.56.69.103/svn/product/oaop/WebContent/common/My97DatePicker/skin/whyGreen"
+   last-author="lt"
+   kind="dir"
+   uuid="eb144bfe-f223-634c-8b8e-4474669a571b"
+   repos="https://123.56.69.103/svn/product"
+   revision="1859"/>
+<entry
+   committed-rev="18"
+   name="img.gif"
+   text-time="2017-07-17T03:55:55.870878Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="d0570f39ca217fbf02f461ef0096d657"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.832853Z"/>
+<entry
+   committed-rev="18"
+   name="datepicker.css"
+   text-time="2017-07-17T03:55:55.858870Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="372d9e54cfdf3f4ad16c854773a0c2ad"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.826847Z"/>
+<entry
+   committed-rev="18"
+   name="bg.jpg"
+   text-time="2017-07-17T03:55:55.845863Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="21ec42adb09c1d8a4c09248f8325e53c"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.819846Z"/>
+</wc-entries>

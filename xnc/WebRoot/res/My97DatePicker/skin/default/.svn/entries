@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="18"
+   name=""
+   committed-date="2016-02-14T11:28:01.575516Z"
+   url="https://123.56.69.103/svn/product/oaop/WebContent/common/My97DatePicker/skin/default"
+   last-author="lt"
+   kind="dir"
+   uuid="eb144bfe-f223-634c-8b8e-4474669a571b"
+   repos="https://123.56.69.103/svn/product"
+   revision="1859"/>
+<entry
+   committed-rev="18"
+   name="img.gif"
+   text-time="2017-07-17T03:55:55.748688Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="ed11a2b68742ccf22763d3e8f2454516"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.725670Z"/>
+<entry
+   committed-rev="18"
+   name="datepicker.css"
+   text-time="2017-07-17T03:55:55.736679Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="09a26d869a1e99526c4fdbae89db11da"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.719683Z"/>
+</wc-entries>

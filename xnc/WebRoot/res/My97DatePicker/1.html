@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<script src="WdatePicker.js"></script>
+	<style>
+		.plugin_panel{
+			width:150px;
+			position:absolute;
+			background:white;
+			z-index:101;
+			border-left:1px solid gray;
+			background:#f0f0f0;
+		}
+		button{
+			border:1px solid gray;
+		}
+		.btn_con{
+			margin-bottom:10px;
+		}
+	</style>
+	<script>
+
+	</script>
+</head>
+<body style="margin:0px">
+	<input id="d12" type="text" onclick="return false;window.event.cancelBubble=true;"/> 
+     <img onclick="WdatePicker({el:$dp.$('d12'),dateFmt:'HH时mm分ss秒'})" src="skin/datePicker.gif" _fcksavedurl="skin/datePicker.gif" width="16" height="22" align="absmiddle"> 
+
+	 
+	 从&nbsp;
+				<input type="text" id='startTime' name='startTime' onfocus="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm',maxDate:'#F{$dp.$D(\'endTime\')}'})" class="Wdate BigInput" style="width:100px;height:25px;"/>&nbsp;到
+				<input type="text" id='endTime' name='endTime' onfocus="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm',minDate:'#F{$dp.$D(\'startTime\')}'})" class="Wdate BigInput"  style="width:100px;height:25px;"/>
+				<input type='button' onClick='doSearch()' style="margin-left:10px;width:45px;height:25px;border:1px solid #f2f2f2;outline:none;color:#fff;background-color:#379ff7;" value="查询"/>
+</body>
+</html>

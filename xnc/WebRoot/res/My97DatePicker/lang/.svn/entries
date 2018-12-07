@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="18"
+   name=""
+   committed-date="2016-02-14T11:28:01.575516Z"
+   url="https://123.56.69.103/svn/product/oaop/WebContent/common/My97DatePicker/lang"
+   last-author="lt"
+   kind="dir"
+   uuid="eb144bfe-f223-634c-8b8e-4474669a571b"
+   repos="https://123.56.69.103/svn/product"
+   revision="1859"/>
+<entry
+   committed-rev="18"
+   name="zh-tw.js"
+   text-time="2017-07-17T03:55:56.026130Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="f0779698d1593a7f44482100a44111a6"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.982058Z"/>
+<entry
+   committed-rev="18"
+   name="zh-cn.js"
+   text-time="2017-07-17T03:55:56.015123Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="c14ae02929ab9667830c5ed7068d39af"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.976054Z"/>
+<entry
+   committed-rev="18"
+   name="en.js"
+   text-time="2017-07-17T03:55:55.991066Z"
+   committed-date="2016-02-14T11:28:01.575516Z"
+   checksum="71ed96d7a61bf1f078eadeaae518ab9c"
+   last-author="lt"
+   kind="file"
+   prop-time="2017-07-17T03:55:55.970052Z"/>
+</wc-entries>
